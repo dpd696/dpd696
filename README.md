@@ -4,7 +4,6 @@ Hey, I'm Brian, a proud Paw Paw tech enthusiast, and I love to learn and grow in
 
 ## Resources on GitHub
 
-- [Videos](https://github.com/dpd696/videos) - Documentation and project files for all my videos
 - [Dotfiles](https://github.com/dpd696/dotfiles) - My personal configuration files on Linux and Windows
 - [Boilerplates](https://github.com/dpd696/boilerplates) - Templates for various projects like Docker, K8S, Ansible, etc
 - [Cheat-Sheets](https://github.com/dpd696/cheat-sheets) - Command Reference for various tools and technologies
