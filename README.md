@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Information Security Officer / Director of Information Technology
 -----------------------------------------------
 
-I am a proud PawPaw tech enthusiast, and I love to learn and grow in IT. I have over 13+ years of experience in Information Technology. Over the past 5 years I have been learning to code. I started with HTML and Python, but have really found a passion for backend development as well as business intelligence.
+I am a proud PawPaw tech enthusiast, and I love to learn and grow in IT. I have over 15+ years of experience in Information Technology. Over the past 7 years I have been learning to code. I started with HTML, then Scratch, onto C, Python and now GO. Over the past 10 years I have really found a passion in the cybersecurity profession. This stems from a passion for protecting digital assets, ensuring the integrity of information systems and investigating potential threats.
 
 * 🌍  I'm based in Columbus, GA
 * 🖥️  See my portfolio at [tribriansmith.com](http://tribriansmith.com)
