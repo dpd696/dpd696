@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Brian Smith
 ===================================================================================================================================
 
-Data Scientist / Information Technology Officer
+Information Security Officer / Director of Information Technology
 -----------------------------------------------
 
 I am a proud PawPaw tech enthusiast, and I love to learn and grow in IT. I have over 13+ years of experience in Information Technology. Over the past 5 years I have been learning to code. I started with HTML and Python, but have really found a passion for backend development as well as business intelligence.
@@ -9,10 +9,10 @@ I am a proud PawPaw tech enthusiast, and I love to learn and grow in IT. I have 
 * 🌍  I'm based in Columbus, GA
 * 🖥️  See my portfolio at [tribriansmith.com](http://tribriansmith.com)
 * ✉️  You can contact me at [dpd696@icloud.com](mailto:dpd696@icloud.com)
-* 🚀  I'm currently working on [Utoob, Fitness Exercises App, and Lyriks](http://gpt-wdellc.com)
-* 🧠  I'm learning TypeScript
-* 🤝  I'm open to collaborating on exciting projects as a frontend developer, designer or dev rel.
-* ⚡  **[Donate to my Charity](https://www.tribriansmith.com/)** will support my mission to compete and raise money for a good cause.
+* 🚀  I'm currently working on [Fitness Exercises App, and Lyriks](http://gpt-wdellc.com)
+* 🧠  I'm learning GoLang
+* 🤝  I'm open to collaborating on exciting projects as a cybersecurity analyst.
+* ⚡  **[Donate to my Charity](https://www.nmdp.org/get-involved/give)** will support my mission.
 
 ### Skills
 
