@@ -6,11 +6,9 @@ Information Security Officer / Director of Information Technology
 
 I am a proud PawPaw tech enthusiast, and I love to learn and grow in IT. I have over 15+ years of experience in Information Technology. Over the past 7 years I have been learning to code. I started with HTML, then Scratch, onto C, Python and now GO. Over the past 10 years I have really found a passion in the cybersecurity profession. This stems from a passion for protecting digital assets, ensuring the integrity of information systems and investigating potential threats.
 
-* 🌍  I'm based in Columbus, GA
+* 🌍  I'm based in Atlanta, GA
 * 🖥️  See my portfolio at [tribriansmith.com](http://tribriansmith.com)
 * ✉️  You can contact me at [dpd696@icloud.com](mailto:dpd696@icloud.com)
-* 🚀  I'm currently working on [Fitness Exercises App, and Lyriks](http://gpt-wdellc.com)
-* 🧠  I'm learning GoLang
 * 🤝  I'm open to collaborating on exciting projects as a cybersecurity analyst.
 * ⚡  **[Donate to my Charity](https://www.nmdp.org/get-involved/give)** will support my mission.
 
